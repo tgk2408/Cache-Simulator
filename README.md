@@ -1,4 +1,4 @@
-ache Simulator
+Cache Simulator
 Madhav Mittal  - CS19B029
 Kshitij Raj    - CS19B061
 Mandala Tejesh - CS19B062
